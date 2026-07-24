@@ -1,0 +1,129 @@
+# Core
+python-dotenv==1.0.0
+pydantic==2.5.0
+pydantic-settings==2.1.0
+
+# Web Framework
+fastapi==0.104.1
+uvicorn==0.24.0
+python-multipart==0.0.6
+python-socketio==5.10.0
+python-engineio==4.8.0
+aiofiles==23.2.1
+
+# Async & Concurrency
+asyncio==3.4.3
+aiohttp==3.9.1
+
+# Database
+sqlalchemy==2.0.23
+psycopg2-binary==2.9.9
+alembic==1.13.0
+
+# Vector Database & Search
+pinecone-client==2.2.4
+langchain==0.1.1
+langchain-community==0.0.10
+langchain-openai==0.0.5
+
+# LLM & AI
+openai==1.3.8
+anthropic==0.7.8
+google-generativeai==0.3.0
+cohere==4.37
+
+# Agent Orchestration
+crewai==0.1.0
+autogen==0.2.0
+langchain-experimental==0.0.48
+
+# Text Processing & NLP
+tiktoken==0.5.1
+nltk==3.8.1
+textblob==0.17.1
+spacy==3.7.2
+
+# Speech & Audio
+elevenlabs==0.2.5
+google-cloud-speech==2.25.1
+google-cloud-texttospeech==2.14.1
+pydub==0.25.1
+librosa==0.10.0
+
+# Data Processing
+pandas==2.1.3
+numpy==1.26.2
+scipy==1.11.4
+
+# Caching & Sessions
+redis==5.0.1
+cachetools==5.3.2
+
+# Authentication & Security
+pyjwt==2.8.1
+python-jose==3.3.0
+bcrypt==4.1.1
+cryptography==41.0.7
+
+# File Handling
+python-magic==0.4.27
+pillow==10.1.0
+openpyxl==3.11.0
+python-pptx==0.6.21
+
+# Validation & Serialization
+jsonschema==4.20.0
+marshmallow==3.20.1
+
+# Testing
+pytest==7.4.3
+pytest-asyncio==0.21.1
+pytest-cov==4.1.0
+httpx==0.25.2
+
+# Development
+black==23.12.0
+flake8==6.1.0
+isort==5.13.2
+mypy==1.7.1
+pylint==3.0.3
+
+# Logging
+python-json-logger==2.0.7
+sentry-sdk==1.38.0
+
+# Monitoring & Metrics
+prometheus-client==0.19.0
+
+# Documentation
+openapi-schema-pydantic==1.3.0
+
+# CORS
+fastapi-cors==0.0.6
+
+# Utility
+requests==2.31.0
+click==8.1.7
+typer==0.9.0
+tqdm==4.66.1
+
+# Email
+python-email-validator==2.1.0
+sendgrid==6.10.0
+
+# Date & Time
+python-dateutil==2.8.2
+pytz==2023.3
+
+# Cloud Storage
+google-cloud-storage==2.14.0
+boto3==1.34.3
+
+# Git Integration
+gitpython==3.1.40
+
+# Rate Limiting
+slowapi==0.1.9
+
+# Utilities
+python-decouple==3.8
